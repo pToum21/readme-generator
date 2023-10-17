@@ -65,12 +65,13 @@ const questions = [
 // init();
 
 const application = () => {
-    inquirer.createPromptModule(questions).then(answers => {
+    inquirer.prompt(questions).then(answers => {
         try {
             fs.writeFileSync("dist/README.md", generateMarkdown(answers))
             console.log("Congratulations Your README.md file is now located in the dist folder, navigate there to view it!")
         } catch (error) {
-            log(error.message)
+            console.log(error.message)
         }
     })
 }
+application();
