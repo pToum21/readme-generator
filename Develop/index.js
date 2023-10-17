@@ -52,6 +52,11 @@ const questions = [
         type: 'input',
         name: 'email',
         message: 'What is your email address?'
+    },
+    {
+        type: 'input',
+        name: 'credits',
+        message: 'Add all the devolpers that helped work on this project here'
     }
 ];
 
