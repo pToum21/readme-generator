@@ -1,31 +1,33 @@
 
-# fsdfsdf
+# sdfsdf
+
+
 
 ## Description - 💠
 * sdfsdf
 
 ## Table of Contents - 📋
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
+* [Installation](#installation---☢️)
+* [Usage](#usage---💎)
+
 
 ## Usage - 💎
-asdasdasd
+sdf
 
 ## How to Contribute - 🍴
-asdasdasd
+sdf
 
 ## Credits - 📃
-asdasdasd
+sdf
 
 ## License - 💳
 None
 
-##Installation - ☢️
+## Installation - ☢️
  You must run npm i to download the correct packages.
 
 ## Test - 🧪
-npm test
+You must run npm run start in the terminal to test the README.md generator.
 
 ## Qustions - ❓
-Feel Free to contact me at asdasda or asdasdasd.
+Feel Free to contact me at sdf or sdf.
