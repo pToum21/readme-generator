@@ -1,6 +1,12 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) { }
+function renderLicenseBadge(license) {
+  if(license !== none) {
+    return ` ![Github license](https://img.shields.io/badge/license-${license.replace(/ /g,'%20')}-blue.svg)`;
+  } else {
+    return '';
+  }
+ }
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -14,24 +20,29 @@ function renderLicenseSection(license) { }
 function generateMarkdown(data) {
   return `
 # ${data.title}
+
 ## Description
 * ${data.description}
-## Table of Contents (Optional)
+
+## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-## Installation
-${data.installation}
+
 ## Usage
 ${data.usage}
-## Credits
-${data.credits}
-## License 
-${data.license}
+
 ## How to Contribute
 ${data.contributing}
+
+## Credits
+${data.credits}
+
+## License 
+${data.license}
+
 ## Qustions
-'Feel Free to contact me at'${data.email}'or'${data.github}
+Feel Free to contact me at ${data.email} or ${data.github}.
 `;
 }
 
