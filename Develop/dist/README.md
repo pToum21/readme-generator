@@ -1,24 +1,31 @@
 
-# dasdasdasd
-## Description
+# fsdfsdf
 
-* asdasd
-## Table of Contents
+## Description - 💠
+* sdfsdf
+
+## Table of Contents - 📋
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 
-## Usage
-asdasdad
-
-## How to Contribute
+## Usage - 💎
 asdasdasd
 
-## Credits
-asdads
+## How to Contribute - 🍴
+asdasdasd
 
-## License 
-MIT
+## Credits - 📃
+asdasdasd
 
-## Qustions
-Feel Free to contact me at asdasd or asdasda.
+## License - 💳
+None
+
+##Installation - ☢️
+ You must run npm i to download the correct packages.
+
+## Test - 🧪
+npm test
+
+## Qustions - ❓
+Feel Free to contact me at asdasda or asdasdasd.
