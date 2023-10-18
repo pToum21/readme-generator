@@ -23,7 +23,8 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) { 
   if (license !== 'None') {
-    return '## License - 💳';
+    return `## License - 💳\n\n
+    This Project is licensed under the ${license} license `;
   } else {
     return '';
   }
@@ -62,7 +63,7 @@ ${renderLicenseSection(data.license)}
 You must run ${data.test} in the terminal to test the README.md generator.
 
 ## Qustions - ❓
-Feel Free to contact me at ${data.email} or ${data.github}.
+Feel Free to contact me at ${data.email} or [https://github.com/pToum21](${data.github}).
 `;
 }
 

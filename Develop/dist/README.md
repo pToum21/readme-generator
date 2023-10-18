@@ -1,10 +1,10 @@
 
-# sdfsdf
+# DAad
 
- ![Github license](https://img.shields.io/badge/license-BSD%203-blue.svg)
+ ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description - 💠
-* dfgdfgdgf
+* asdasdasd
 
 ## Table of Contents - 📋
 * [Installation](#installation---☢️)
@@ -12,7 +12,7 @@
 * [License](#license---💳)
 
 ## Usage - 💎
-asdasd
+asdasdas
 
 ## How to Contribute - 🍴
 asdasdasd
@@ -20,8 +20,10 @@ asdasdasd
 ## Credits - 📃
 asdasd
 
-## License - 💳
-## License - 💳
+## License---💳
+
+
+    This Project is licensed under the MIT license 
 
 ## Installation - ☢️
  You must run npm i to download the correct packages.
@@ -30,4 +32,4 @@ asdasd
 You must run npm run start in the terminal to test the README.md generator.
 
 ## Qustions - ❓
-Feel Free to contact me at asdads or asdasd.
+Feel Free to contact me at adasd or [https://github.com/pToum21](asdasd).
