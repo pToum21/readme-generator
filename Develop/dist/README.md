@@ -1,27 +1,27 @@
 
 # sdfsdf
 
-
+ ![Github license](https://img.shields.io/badge/license-BSD%203-blue.svg)
 
 ## Description - 💠
-* sdfsdf
+* dfgdfgdgf
 
 ## Table of Contents - 📋
 * [Installation](#installation---☢️)
 * [Usage](#usage---💎)
-
+* [License](#license---💳)
 
 ## Usage - 💎
-sdf
+asdasd
 
 ## How to Contribute - 🍴
-sdf
+asdasdasd
 
 ## Credits - 📃
-sdf
+asdasd
 
 ## License - 💳
-None
+## License - 💳
 
 ## Installation - ☢️
  You must run npm i to download the correct packages.
@@ -30,4 +30,4 @@ None
 You must run npm run start in the terminal to test the README.md generator.
 
 ## Qustions - ❓
-Feel Free to contact me at sdf or sdf.
+Feel Free to contact me at asdads or asdasd.
