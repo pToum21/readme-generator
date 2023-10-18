@@ -1,10 +1,10 @@
 
-# DAad
+# sdfsadf
 
  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description - 💠
-* asdasdasd
+* asdfasdf
 
 ## Table of Contents - 📋
 * [Installation](#installation---☢️)
@@ -12,15 +12,15 @@
 * [License](#license---💳)
 
 ## Usage - 💎
-asdasdas
+sadfasdf
 
 ## How to Contribute - 🍴
-asdasdasd
+asdfas
 
 ## Credits - 📃
-asdasd
+sadf
 
-## License---💳
+## License - 💳
 
 
     This Project is licensed under the MIT license 
@@ -32,4 +32,4 @@ asdasd
 You must run npm run start in the terminal to test the README.md generator.
 
 ## Qustions - ❓
-Feel Free to contact me at adasd or [https://github.com/pToum21](asdasd).
+Feel Free to contact me at peysdfsdfsd@gmail.com or [ptoum21](https://github.com/ptoum21).
