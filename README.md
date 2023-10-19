@@ -16,8 +16,8 @@ The user must it stall the node dependinces using npm i and npm init -y
 ## How to Contribute - 🍴
 The user must clone the repo have node.js and node package manager installed as well as have inquirer 
 
-## Credits - 📃
-
+## Video - 🎥
+https://drive.google.com/file/d/1LeFlXUrXIuqXufs0bHAoKPdJqLudqNR_/view?usp=share_link
 
 ## License - 💳
 
