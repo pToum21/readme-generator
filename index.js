@@ -1,8 +1,8 @@
-// TODO: Include packages needed for this application
 const fs = require('fs')
 const generateMarkdown = require("./utils/generateMarkdown")
 const inquirer = require('inquirer')
-// TODO: Create an array of questions for user input
+
+// an array of objects that are each questions for the user to answer
 const questions = [
     {
         type: 'input',
@@ -60,6 +60,7 @@ const questions = [
     }
 ];
 
+// this function will print the readme to a new README.md file
 const application = () => {
     inquirer.prompt(questions).then(answers => {
         try {
