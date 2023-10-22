@@ -15,7 +15,7 @@ function renderLicenseLink(license) {
   }
 }
 
-// If there is no license, this returns an empty string, if there is it creates a licenses section
+// If there is no license, this returns an empty string, if there is it creates a licenses section if not it doesnt
 function renderLicenseSection(license) { 
   if (license !== 'None') {
     return `## License - 💳\n\n
